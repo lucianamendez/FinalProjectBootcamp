@@ -1,0 +1,44 @@
+#search {
+    min-width: 300px;
+    width: 100%;
+}
+
+#result {
+    position: absolute;
+    min-width: 300px;
+    width: 97%;
+    cursor: pointer;
+    z-index: 1001;
+}
+
+.link-class:hover {
+    background-color: #f1f1f1;
+}
+
+.galeria {
+    margin-top: 25px;
+}
+
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.thumbnail {
+    height: 500px;
+}
+
+.botonera {
+    position: absolute;
+    bottom: 30px;
+}
+.botones{
+    margin-left:10px;
+}
+
+@media (min-width:387px) and (max-width:1220px) {
+    #result {
+        min-width: 300px;
+        max-width: 96%;
+    }
+}

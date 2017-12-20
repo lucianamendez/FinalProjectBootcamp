@@ -1,0 +1,96 @@
+[{
+    "producto": "Videojuegos",
+    "imagen": "img/productos/videojuegos/videojuegos.png",
+    "categoria": "Videojuegos",
+    "serial": "cat"
+  },
+
+  {
+    "producto": "Nintendo Switch Consola",
+    "imagen": "img/productos/videojuegos/switch/switch.jpg",
+    "categoria": "Videojuegos",
+    "precio":"U$S270",
+    "serial":"0"
+  },
+  {
+    "producto": "The legend of Zelda Breath of the Wild Nintendo Switch",
+    "imagen": "img/productos/videojuegos/switch/zelda.jpg",
+    "categoria": "Videojuegos",
+    "precio":"U$S60",
+    "serial":"1"
+  },
+  {
+    "producto": "Bomberman Nintendo Switch",
+    "imagen": "img/productos/videojuegos/switch/bomberman.jpg",
+    "categoria": "Videojuegos",
+    "precio":"U$S30",
+    "serial":"2"
+  },
+
+  {
+    "producto": "Pokemon",
+    "imagen": "img/productos/Peluches/peluches.jpg",
+    "categoria": "Peluches",
+    "serial":"cat"
+  },
+  {
+    "producto": "Eevee Pokemon",
+    "imagen": "img/productos/Peluches/eevee/eevee1.jpg",
+    "categoria": "Peluches",
+    "precio":"U$S20",
+    "serial":"3"
+  },
+  {
+    "producto": "Vaporeon Pokemon",
+    "imagen": "img/productos/Peluches/Vaporeon/Vaporeon1.jpg",
+    "categoria": "Peluches",
+    "precio":"U$S20",
+    "serial":"4"
+  },
+  {
+    "producto": "Jolteon Pokemon",
+    "imagen": "img/productos/Peluches/Jolteon/jolteon1.jpg",
+    "categoria": "Peluches",
+    "precio":"U$S20",
+    "serial":"5"
+  },
+  {
+    "producto": "Flareon Pokemon",
+    "imagen": "img/productos/Peluches/Flareon/flareon1.jpg",
+    "categoria": "Peluches",
+    "precio":"U$S20",
+    "serial":"6"
+  },
+  {
+    "producto": "Espeon Pokemon",
+    "imagen": "img/productos/Peluches/Espeon/espeon1.jpg",
+    "categoria": "Peluches",
+    "precio":"U$S20",
+    "serial":"7"
+  },
+  {
+    "producto": "Umbreon Pokemon",
+    "imagen": "img/productos/Peluches/Umbreon/umbreon1.jpg",
+    "categoria": "Peluches",
+    "precio":"U$S20",
+    "serial":"8"
+  },
+  {
+    "producto": "Leafeon Pokemon",
+    "imagen": "img/productos/Peluches/Leafeon/leafeon1.jpg",
+    "categoria": "Peluches"
+  },
+  {
+    "producto": "Glaceon Pokemon",
+    "imagen": "img/productos/Peluches/Glaceon/glaceon1.jpg",
+    "categoria": "Peluches",
+    "precio":"U$S20",
+    "serial":"9"
+  },
+  {
+    "producto": "Sylveon Pokemon",
+    "imagen": "img/productos/Peluches/Sylveon/sylveon1.jpg",
+    "categoria": "Peluches",
+    "precio":"U$S20"
+  }
+]
