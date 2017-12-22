@@ -8,89 +8,154 @@
   {
     "producto": "Nintendo Switch Consola",
     "imagen": "img/productos/videojuegos/switch/switch.jpg",
+    "imagen2": "img/productos/videojuegos/switch/switch2.jpg",
+    "imagen3": "img/productos/videojuegos/switch/switch3.jpg",
     "categoria": "Videojuegos",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S270",
-    "serial":"0"
+    "serial":"0",
+    "rank":"new",
+    "cantidad":"15"
   },
   {
     "producto": "The legend of Zelda Breath of the Wild Nintendo Switch",
     "imagen": "img/productos/videojuegos/switch/zelda.jpg",
+    "imagen2": "img/productos/videojuegos/switch/zelda.jpg",
+    "imagen3": "img/productos/videojuegos/switch/zelda.jpg",
     "categoria": "Videojuegos",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S60",
-    "serial":"1"
+    "serial":"1",
+    "rank":"new",
+    "cantidad":"4"
   },
   {
     "producto": "Bomberman Nintendo Switch",
     "imagen": "img/productos/videojuegos/switch/bomberman.jpg",
+    "imagen2": "img/productos/videojuegos/switch/bomberman2.jpg",
+    "imagen3": "img/productos/videojuegos/switch/bomberman3.jpg",
     "categoria": "Videojuegos",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S30",
-    "serial":"2"
+    "serial":"2",
+    "rank":"new",
+    "cantidad":"10"
   },
 
   {
     "producto": "Pokemon",
     "imagen": "img/productos/Peluches/peluches.jpg",
     "categoria": "Peluches",
-    "serial":"cat"
+    "serial":"cat",
+    "rank":"used",
+    "cantidad":"6"
   },
   {
     "producto": "Eevee Pokemon",
     "imagen": "img/productos/Peluches/eevee/eevee1.jpg",
+    "imagen2": "img/productos/Peluches/eevee/eevee2.jpg",
+    "imagen3": "img/productos/Peluches/eevee/eevee3.jpg",
     "categoria": "Peluches",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S20",
-    "serial":"3"
+    "serial":"3",
+    "rank":"new",
+    "cantidad":"3"
+
   },
   {
     "producto": "Vaporeon Pokemon",
     "imagen": "img/productos/Peluches/Vaporeon/Vaporeon1.jpg",
+    "imagen2": "img/productos/Peluches/Vaporeon/Vaporeon2.jpg",
+    "imagen3": "img/productos/Peluches/Vaporeon/Vaporeon3.jpg",
     "categoria": "Peluches",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S20",
-    "serial":"4"
+    "serial":"4",
+    "rank":"used",
+    "cantidad":"2"
   },
   {
     "producto": "Jolteon Pokemon",
     "imagen": "img/productos/Peluches/Jolteon/jolteon1.jpg",
+    "imagen2": "img/productos/Peluches/Jolteon/jolteon2.jpg",
+    "imagen3": "img/productos/Peluches/Jolteon/jolteon3.jpg",
     "categoria": "Peluches",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S20",
-    "serial":"5"
+    "serial":"5",
+    "rank":"new",
+    "cantidad":"4"
   },
   {
     "producto": "Flareon Pokemon",
     "imagen": "img/productos/Peluches/Flareon/flareon1.jpg",
+    "imagen2": "img/productos/Peluches/Flareon/flareon2.jpg",
+    "imagen3": "img/productos/Peluches/Flareon/flareon3.jpg",
     "categoria": "Peluches",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S20",
-    "serial":"6"
+    "serial":"6",
+    "rank":"new",
+    "cantidad":"3"
   },
   {
     "producto": "Espeon Pokemon",
     "imagen": "img/productos/Peluches/Espeon/espeon1.jpg",
+    "imagen2": "img/productos/Peluches/Espeon/espeon2.jpg",
+    "imagen3": "img/productos/Peluches/Espeon/espeon3.jpg",
     "categoria": "Peluches",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S20",
-    "serial":"7"
+    "serial":"7",
+    "rank":"used",
+    "cantidad":"1"
   },
   {
     "producto": "Umbreon Pokemon",
     "imagen": "img/productos/Peluches/Umbreon/umbreon1.jpg",
+    "imagen2": "img/productos/Peluches/Umbreon/umbreon2.jpg",
+    "imagen3": "img/productos/Peluches/Umbreon/umbreon3.jpg",
     "categoria": "Peluches",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S20",
-    "serial":"8"
+    "serial":"8",
+    "rank":"new",
+    "cantidad":"17"
   },
   {
     "producto": "Leafeon Pokemon",
     "imagen": "img/productos/Peluches/Leafeon/leafeon1.jpg",
-    "categoria": "Peluches"
+    "imagen2": "img/productos/Peluches/Leafeon/leafeon2.jpg",
+    "imagen3": "img/productos/Peluches/Leafeon/leafeon3.jpg",
+    "categoria": "Peluches",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
+    "precio":"U$S20",
+    "serial":"9",
+    "rank":"used",
+    "cantidad":"3"
   },
   {
     "producto": "Glaceon Pokemon",
     "imagen": "img/productos/Peluches/Glaceon/glaceon1.jpg",
+    "imagen2": "img/productos/Peluches/Glaceon/glaceon2.jpg",
+    "imagen3": "img/productos/Peluches/Glaceon/glaceon3.jpg",
     "categoria": "Peluches",
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
     "precio":"U$S20",
-    "serial":"9"
+    "rank":"new",
+    "cantidad":"8"
+    
   },
   {
     "producto": "Sylveon Pokemon",
     "imagen": "img/productos/Peluches/Sylveon/sylveon1.jpg",
+    "imagen2": "img/productos/Peluches/Sylveon/sylveon2.jpg",
+    "imagen3": "img/productos/Peluches/Sylveon/sylveon3.jpg",
     "categoria": "Peluches",
-    "precio":"U$S20"
+    "descripcion":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id accumsan risus. Praesent sit amet massa lacus. Phasellus pulvinar cursus urna in ullamcorper. Vivamus eu massa odio. Phasellus iaculis tempus purus. Praesent vel sapien et felis volutpat mattis. Nam nec.", 
+    "precio":"U$S20",
+    "rank":"new",
+    "cantidad":"12"
   }
 ]
